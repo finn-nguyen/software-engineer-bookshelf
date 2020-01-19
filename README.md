@@ -82,6 +82,7 @@
 | 18   | [Head First Object-Oriented Analysis and Design](https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678)
 | 19   | [Functional Light JS](https://github.com/getify/Functional-Light-JS)
 | 20   | [Mostly Adequate Guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+| 21   | [Regular Expression Pocket Reference: Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET](https://www.amazon.com/Regular-Expression-Pocket-Reference-Expressions/dp/0596514271)
 
 
 ## Architecture
