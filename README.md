@@ -1,6 +1,6 @@
 # Software Engineer Bookshelf
 
-| [Common](#common) | [Network](#network)  | [Operating System](#operating-system) | [Database](#database) | [Data structures and algorithms](#data-structures-and-algorithms)  | [Design patterns](#design-patterns) | [Backend](#backend) | [Architecture](#architecture) | [Interviewing](#interviewing) 
+| [Common](#common) | [Network](#network)  | [Operating System](#operating-system) | [Database](#database) | [Data structures and algorithms](#data-structures-and-algorithms)  | [Design patterns](#design-patterns) | [Backend](#backend) | [Architecture](#architecture) | [Devops](#devops) | [Interviewing](#interviewing) 
 
 ## Common
 
@@ -96,6 +96,18 @@
 | 2   | [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 | 3   | [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 | 4   | [Distributed Systems: Concepts and Design](https://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011)
+
+
+## Devops
+
+| #   | Title                                                                               |
+| --- | ------------------------------------------------------------------------------------|
+| 1   | [Docker Deep Dive](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF)
+| 2   | [Docker: Up & Running: Shipping Reliable Containers in Production](https://www.amazon.com/Docker-Shipping-Reliable-Containers-Production/dp/1492036730)
+| 3   | [The Kubernetes Book](https://www.amazon.com/Kubernetes-Book-Version-November-2018-ebook/dp/B072TS9ZQZ)
+| 4   | [Kubernetes in Action](https://www.amazon.com/Kubernetes-Action-Marko-Luksa/dp/1617293725)
+| 5   | [Kubernetes: Up and Running: Dive into the Future of Infrastructure](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677)
+
 
 ## Interviewing
 
