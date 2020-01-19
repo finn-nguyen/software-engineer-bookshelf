@@ -1,8 +1,8 @@
 # Software Engineer Bookshelf
 
-| [Common](#common) | [Network](#network)  | [Operating System](#operating-system) | [Database](#database) | [Data structures and algorithms](#data-structures-and-algorithms)  | [Design patterns](#design-patterns) | [Backend](#backend) | [Architecture](#architecture) | [Devops](#devops) | [Interviewing](#interviewing) 
+| [Classic](#classic) | [Network](#network)  | [Operating System](#operating-system) | [Database](#database) | [Data structures and algorithms](#data-structures-and-algorithms)  | [Design patterns](#design-patterns) | [Backend](#backend) | [Architecture](#architecture) | [Devops](#devops) | [Interviewing](#interviewing) 
 
-## Common
+## Classic
 
 | #   | Title                                                                               |
 | --- | ------------------------------------------------------------------------------------|
