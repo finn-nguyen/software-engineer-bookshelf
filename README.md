@@ -84,6 +84,7 @@
 | 20   | [Mostly Adequate Guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
 | 21   | [Regular Expression Pocket Reference: Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET](https://www.amazon.com/Regular-Expression-Pocket-Reference-Expressions/dp/0596514271)
 | 22   | [Blockchain Bubble or Revolution: The Present and Future of Blockchain and Cryptocurrencies](https://www.amazon.com/Blockchain-Bubble-Revolution-Present-Cryptocurrencies/dp/0578528150)
+| 23   | [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 
 
 
