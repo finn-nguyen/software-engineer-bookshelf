@@ -83,6 +83,8 @@
 | 19   | [Functional Light JS](https://github.com/getify/Functional-Light-JS)
 | 20   | [Mostly Adequate Guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
 | 21   | [Regular Expression Pocket Reference: Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET](https://www.amazon.com/Regular-Expression-Pocket-Reference-Expressions/dp/0596514271)
+| 22   | [Blockchain Bubble or Revolution: The Present and Future of Blockchain and Cryptocurrencies](https://www.amazon.com/Blockchain-Bubble-Revolution-Present-Cryptocurrencies/dp/0578528150)
+
 
 
 ## Architecture
